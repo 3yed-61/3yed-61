@@ -2,7 +2,7 @@
 > Welcome to my GitHub Profile
 
 
-![snake](https://github.com/3yed-61/3yed-61/assets/123330023/2328898e-5ffb-4afb-a4ca-83bffbc6dafc)
+[![snake](https://github.com/3yed-61/3yed-61/assets/123330023/2328898e-5ffb-4afb-a4ca-83bffbc6dafc)](https://github.com/3yed-61/3yed-61/blob/main/snake.svg)
 
 
 
